@@ -6,7 +6,7 @@ The AI Career Roadmap Chatbot is an intelligent career guidance assistant develo
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - 📄 Resume Analysis
 - 🎯 Skill Gap Identification
@@ -15,8 +15,23 @@ The AI Career Roadmap Chatbot is an intelligent career guidance assistant develo
 - 💼 Internship Guidance
 - 🎤 Interview Preparation
 - 📋 Career Action Plan
+- 🤖 AI-powered Career Coaching
 
 ---
+
+Resume Upload
+      │
+      ▼
+AI Resume Analysis
+      │
+      ▼
+Skill Gap Detection
+      │
+      ▼
+Learning Roadmap
+      │
+      ▼
+Certifications + Projects + Interview Preparation
 
 ## 🛠 Technologies Used
 
