@@ -1,2 +1,62 @@
-# AI-Career-Roadmap-Chatbot
-AI-powered career guidance chatbot built with Estha.ai to help cybersecurity students with resume analysis, skill gap identification, personalized learning roadmaps, and interview preparation.
+# 🤖 AI Career Roadmap Chatbot
+
+## 📌 Overview
+
+The AI Career Roadmap Chatbot is an intelligent career guidance assistant developed using **Estha.ai**. It helps cybersecurity students and freshers identify skill gaps, receive personalized learning roadmaps, improve resumes, discover certifications, and prepare for interviews.
+
+---
+
+## ✨ Features
+
+- 📄 Resume Analysis
+- 🎯 Skill Gap Identification
+- 🗺️ Personalized Learning Roadmap
+- 📚 Certification Recommendations
+- 💼 Internship Guidance
+- 🎤 Interview Preparation
+- 📋 Career Action Plan
+
+---
+
+## 🛠 Technologies Used
+
+- Estha.ai
+- AI Chatbot
+- Prompt Engineering
+
+---
+
+## 🚀 Live Demo
+
+Try the chatbot here:
+
+**https://studio.estha.ai/app/6a378aedf06f474cb8eec7f7**
+
+---
+
+## 👩‍💻 My Contribution
+
+I designed and configured this chatbot by:
+
+- Creating the chatbot workflow
+- Designing prompts and responses
+- Building career guidance logic
+- Developing resume analysis questions
+- Creating personalized learning roadmaps
+- Testing and refining chatbot responses
+
+---
+
+## 📌 Note
+
+This chatbot was developed using **Estha.ai**. The source code is hosted and managed on the Estha.ai platform. This repository documents the project's features, workflow, screenshots, and provides access to the live chatbot.
+
+---
+
+## 👩‍💻 Author
+
+**Pooja Prasad**
+
+B.Sc. Cyber Security (Expected Graduation: 2027)
+
+Interested in Cybersecurity, GRC, Information Security, AI in Cybersecurity, and Malware Analysis.
