@@ -51,14 +51,25 @@ Try the chatbot here:
 
 ## 👩‍💻 My Contribution
 
-I designed and configured this chatbot by:
+I designed and configured the chatbot by:
 
-- Creating the chatbot workflow
-- Designing prompts and responses
-- Building career guidance logic
-- Developing resume analysis questions
-- Creating personalized learning roadmaps
+- Defining the chatbot workflow
+- Writing prompts and responses
+- Creating career guidance logic
+- Structuring resume analysis
+- Designing skill gap recommendations
+- Developing personalized learning roadmaps
 - Testing and refining chatbot responses
+
+---
+
+## 🎯 Use Cases
+
+- Cybersecurity Students
+- Fresh Graduates
+- Internship Preparation
+- Career Planning
+- Resume Improvement
 
 ---
 
